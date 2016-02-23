@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.008,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.658,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.483,C:\SAuction\XE Edition\TEST\윈도창내IE찾기\Project3.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.052,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.763,C:\SAuction\XE Edition\TEST\윈도창내IE찾기\Unit3.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.763,C:\SAuction\XE Edition\TEST\윈도창내IE찾기\Unit3.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2015-08-12 14:43:06.690,C:\SAuction\XE Edition\TEST\윈도창내IE찾기\clickPrintButton.dproj=C:\SAuction\XE Edition\TEST\윈도창내IE찾기\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
